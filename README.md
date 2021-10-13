@@ -1,4 +1,4 @@
 se_demo
 Hello World
-Honda
+Honda Civic
 Toyota
