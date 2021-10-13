@@ -16,5 +16,10 @@ what about soviet cars LADA's?
 =======
 what about soviet cars LADA's?
 Hello class! Josh here
+<<<<<<< HEAD
+In the Branch, commiting again :) -Josh P.S. Hello Zoli
+>>>>>>> main
+=======
+Test change for class
 In the Branch, commiting again :) -Josh P.S. Hello Zoli
 >>>>>>> main
