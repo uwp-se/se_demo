@@ -23,3 +23,6 @@ In the Branch, commiting again :) -Josh P.S. Hello Zoli
 Test change for class
 In the Branch, commiting again :) -Josh P.S. Hello Zoli
 >>>>>>> main
+
+
+Edits for 10/12/21
