@@ -5,6 +5,7 @@ Honda Civic
 Toyota
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello class! Josh here
 <<<<<<< HEAD
 Wow look at this fancy commit!
@@ -31,3 +32,8 @@ Edits for 10/12/21
 =======
 TEST PPP
 >>>>>>> feature_a
+=======
+Hello class! Josh here
+Hello there.
+Working on Dev Release 1.2.0
+>>>>>>> us_zaid_rel-1.2.0
